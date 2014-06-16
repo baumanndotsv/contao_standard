@@ -1,4 +1,4 @@
-#iContao Standard
+#Contao Standard
 ===============
 
 ##Tiny 4 Custom##
@@ -6,4 +6,4 @@
 - menubar disabled
 
 ##DCA##	
-Add in Listview (DCA) to each the the id
+- Add in Listview (DCA) to each the the id
