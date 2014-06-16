@@ -5,11 +5,11 @@
 (function () {
     window.addEvent('domready', function () {
 
-        window.addEvent('keydown:keys(control)', function () {
+        window.addEvent('keydown:keys(shift)', function () {
             showRowId();
         });
 
-        window.addEvent('keyup:keys(control)', function () {
+        window.addEvent('keyup:keys(shift)', function () {
             hideRowId();
         });
 

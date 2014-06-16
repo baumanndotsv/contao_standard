@@ -12,7 +12,7 @@ array_insert($GLOBALS['TL_LANG']['tl_user'], 1, array
 		'showRowId' => array
 		(
 				'IDs zeigen',
-				'Im ListView die IDs der Reihen anzeigen. Drücken Sie die Control Taste um die IDs zu sehen.'
+				'Im ListView die IDs der Reihen anzeigen. Drücken Sie die Shift Taste um die IDs zu sehen.'
 		),
 		'tinyWithOutMenu' => array
 		(
