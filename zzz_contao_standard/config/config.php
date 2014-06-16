@@ -6,6 +6,7 @@
  * Time: 10:38
  */
 
+
 // add TinyBlueforest
 $GLOBALS['TL_HOOKS']['loadDataContainer'][] = array('Tiny', 'setDefaultTiny');
 
